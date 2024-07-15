@@ -1,2 +1,2 @@
 # portfolioNextJS
-A NextJS porfolio
+A NextJS portfolio
